@@ -1,3 +1,6 @@
+kendi firmma dökümanlarımla özelleştirerek bir chatbot yapmak 
+RAG (Retrieval Augmented Generation)
+
 requirements.txt kısmında hepsini indir önerisi çıkmıyorsa 
 seetings->projeninin ismi altında virtualenv environment-add local--> existing -->interpreter kısmı nda proje nin  klasörünün altındaki python 
 
@@ -8,3 +11,7 @@ seetings->projeninin ismi altında virtualenv environment-add local--> existing 
 ![image](https://github.com/user-attachments/assets/7913359c-2822-4c20-a465-a3d63a7b99a3)
 
 ![image](https://github.com/user-attachments/assets/b194f8a8-c20e-42c8-b386-877e8732c379)
+
+run edince
+
+![image](https://github.com/user-attachments/assets/c1a8f3c4-ca1b-4468-a5ae-a9e30cf3fb00)
